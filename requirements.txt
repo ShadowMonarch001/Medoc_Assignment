@@ -1,0 +1,11 @@
+python>=3.9,<3.12
+streamlit==1.29.0
+opencv-python-headless==4.8.1.78
+numpy==1.24.3
+pandas==2.0.3
+mtcnn==0.1.1
+keras-facenet==0.3.2
+scipy==1.11.4
+Pillow==10.1.0
+tensorflow==2.15.0
+protobuf==3.20.3
