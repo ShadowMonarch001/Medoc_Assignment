@@ -29,7 +29,6 @@ A real-time face recognition-based attendance system using MTCNN for face detect
 ## Demo
 
 - **Local demo**: Run the system on your laptop using a webcam
-- <img width="796" height="631" alt="image" src="https://github.com/user-attachments/assets/6c4a26ec-76d6-4fa2-b62b-7831d7e31885" />
 - **Hosted demo** *(optional)*: Can be extended with Flask/Streamlit for web deployment
 
 ## Features
